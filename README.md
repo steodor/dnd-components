@@ -1,8 +1,8 @@
 ### UNDER CONSTRUCTION
 - there's currently nothing here. I wish to finish it this year (2019) but i make no promises.
 
-# kanman
-The Javascript Kanban Manager - turns your DOM elements into a Kanban board and Manages essential user interaction. Works on desktop and mobile devices. It's opinionated because it's built especially for mobile performance in web/cordova apps.
+# js-kanman
+The Javascript Kanban Manager - turns your DOM elements into a Kanban board and Manages essential user interaction. Works on desktop and mobile devices. It's opinionated because it's built especially for mobile performance in web and Cordova-based apps.
 
 ### Features:
 - **smooth drag and drop**: optimized for fluency on big datasets.
